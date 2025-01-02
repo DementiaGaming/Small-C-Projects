@@ -1,1 +1,3 @@
-You'll have to compile them yourself
+All my small projects written in C will be found here.
+
+You'll have to download and compile them yourself if you want to run them.
